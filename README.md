@@ -1,4 +1,5 @@
 ![Requirement](https://img.shields.io/badge/JDK-8+-green.svg)
+![Spring](https://img.shields.io/badge/Spring-4.3.12.RELEASE+-green.svg)
 [![DDDplus version](https://img.shields.io/badge/DDDplus-1.1.0--SNAPSHOT-blue)](https://github.com/funkygao/cp-ddd-framework)
 
 <details>

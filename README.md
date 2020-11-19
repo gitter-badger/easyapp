@@ -15,7 +15,7 @@
 
 ## What is easyapp?
 
->easyapp is `easy app`
+>easyapp is `app made easy`
 
 `easyapp` is an open-source low-code platform backend that helps you code business applications in an easy way.
 

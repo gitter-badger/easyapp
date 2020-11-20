@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.jdl.easyapp</groupId>
-    <artifactId>easyapp-server</artifactId>
+    <groupId>io.github.dddplus</groupId>
+    <artifactId>easyapp</artifactId>
     <packaging>pom</packaging>
     <version>1.0.0-SNAPSHOT</version>
-
-    <name>easyapp-server</name>
+    <name>easyapp</name>
+    <description>A low-code SaaS platform backend</description>
 
     <properties>
         <maven.compiler.target>1.8</maven.compiler.target>
@@ -51,23 +51,23 @@
 
             <!--project modules-->
             <dependency>
-                <groupId>com.jdl.easyapp</groupId>
-                <artifactId>easyapp-server-application</artifactId>
+                <groupId>io.github.dddplus</groupId>
+                <artifactId>easyapp-application</artifactId>
                 <version>1.0.0-SNAPSHOT</version>
             </dependency>
             <dependency>
-                <groupId>com.jdl.easyapp</groupId>
-                <artifactId>easyapp-server-domain</artifactId>
+                <groupId>io.github.dddplus</groupId>
+                <artifactId>easyapp-domain</artifactId>
                 <version>1.0.0-SNAPSHOT</version>
             </dependency>
             <dependency>
-                <groupId>com.jdl.easyapp</groupId>
-                <artifactId>easyapp-server-infrastructure</artifactId>
+                <groupId>io.github.dddplus</groupId>
+                <artifactId>easyapp-infrastructure</artifactId>
                 <version>1.0.0-SNAPSHOT</version>
             </dependency>
             <dependency>
-                <groupId>com.jdl.easyapp</groupId>
-                <artifactId>easyapp-server-main</artifactId>
+                <groupId>io.github.dddplus</groupId>
+                <artifactId>easyapp-main</artifactId>
                 <version>1.0.0-SNAPSHOT</version>
             </dependency>
 
@@ -125,10 +125,10 @@
     </build>
 
     <modules>
-        <module>easyapp-server-application</module>
-        <module>easyapp-server-domain</module>
-        <module>easyapp-server-infrastructure</module>
-        <module>easyapp-server-main</module>
-        <module>easyapp-server-test</module>
+        <module>easyapp-application</module>
+        <module>easyapp-domain</module>
+        <module>easyapp-infrastructure</module>
+        <module>easyapp-main</module>
+        <module>easyapp-test</module>
     </modules>
 </project>

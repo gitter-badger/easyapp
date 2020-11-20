@@ -22,7 +22,7 @@
 
 >easyapp is `app made easy`
 
-`easyapp` is an open-source low-code platform backend that helps you code business applications in an easy way.
+`easyapp` is an open source low-code platform backend that helps you code business applications in an easy way.
 
 一个低代码快速开发SaaS平台的后端系统。
 

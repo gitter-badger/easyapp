@@ -1,4 +1,4 @@
-![CI](https://github.com/dddplus/easyapp/workflows/CI/badge.svg)(https://github.com/dddplus/easyapp/actions?query=workflow%3ACI)
+[![CI](https://github.com/dddplus/easyapp/workflows/CI/badge.svg)](https://github.com/dddplus/easyapp/actions?query=workflow%3ACI)
 [![Code Quality: Java](https://img.shields.io/lgtm/grade/java/g/dddplus/easyapp.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/dddplus/easyapp/context:java)
 [![Coverage Status](https://img.shields.io/codecov/c/github/dddplus/easyapp.svg)](https://codecov.io/gh/dddplus/easyapp)
 

@@ -4,7 +4,7 @@
 ![Requirement](https://img.shields.io/badge/JDK-8+-green.svg)
 [![DDDplus version](https://img.shields.io/badge/DDDplus-1.0.3-brightgreen)](https://github.com/funkygao/cp-ddd-framework)
 
-[![Gitter chat](https://img.shields.io/badge/gitter-join%20chat%20%E2%86%92-brightgreen.svg)](https://gitter.im/cp-ddd-framework/community)
+[![Gitter chat](https://img.shields.io/badge/gitter-join%20chat%20%E2%86%92-brightgreen.svg)](https://gitter.im/easyappx/community)
 
 <details>
 <summary><b>Table of content</b></summary>
